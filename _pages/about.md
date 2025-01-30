@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Welcome to Thunderr's Personal Website
+# Welcome to thunder's Personal Website
 
-Hello! I am Thunderr, a passionate computer engineering student at King Mongkut's University of Technology Thonburi (KMUTT), currently exploring the fascinating world of software development, data analysis, and technology-driven projects. This website is built using the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub Pages. It's designed to showcase my work, projects, research, and interests.
+Hello! I am thunder, a passionate computer engineering student at King Mongkut's University of Technology Thonburi (KMUTT), currently exploring the fascinating world of software development, data analysis, and technology-driven projects. This website is built using the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub Pages. It's designed to showcase my work, projects, research, and interests.
 
 ## About Me
 
