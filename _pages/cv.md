@@ -8,11 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
----
-permalink: /
-title: "Nanphat Tongsirisukool - Computer Engineering Portfolio"
-author_profile: true
----
 
 # 👨‍💻 Welcome to My Portfolio
 
