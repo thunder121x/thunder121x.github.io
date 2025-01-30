@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to thunder's Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Welcome to thunder's Personal Website
 
 Hello! I am thunder, a passionate computer engineering student at King Mongkut's University of Technology Thonburi (KMUTT), currently exploring the fascinating world of software development, data analysis, and technology-driven projects. This website is built using the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub Pages. It's designed to showcase my work, projects, research, and interests.
 
-## About Me
+About Me
+===
 
 I am currently in my third year of studying Computer Engineering, where I am focused on understanding and applying various concepts like Multi-Level Feedback Queues (MLFQ) for process scheduling and building systems for real-world applications. My journey in software development includes working on a variety of exciting projects, from creating an online tutor management system to designing an autonomous warehouse management system for a roasted duck restaurant.
 
